@@ -4,7 +4,7 @@
 
 武汉理工大学（Wuhan University of Technology）风格的Beamer演示文稿模板，专为学术报告、毕业答辩和技术分享设计。提供现代化的视觉风格和便捷的中文支持。
 
-[➡ 立即查看模板樣例](https://github.com/lxidea/WHUT-Beamer-Theme/blob/main/sample.pdf)  
+[➡ 立即查看模板樣例](https://github.com/lxidea/WHUT-Beamer-Theme/blob/main/blob/main/sample.pdf)  
 [▼ 下载最新版本](https://github.com/lxidea/WHUT-Beamer-Theme/releases/latest)
 
 ## 主要特性
